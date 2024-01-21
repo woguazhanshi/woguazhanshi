@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ipclzj/c/test1/build",
+  "command": "/usr/bin/gcc  -I/home/ipclzj/c/test1/inc -g -std=gnu11 -o CMakeFiles/test1.dir/src/main.c.o -c /home/ipclzj/c/test1/src/main.c",
+  "file": "/home/ipclzj/c/test1/src/main.c"
+},
+{
+  "directory": "/home/ipclzj/c/test1/build",
+  "command": "/usr/bin/gcc  -I/home/ipclzj/c/test1/inc -g -std=gnu11 -o CMakeFiles/test1.dir/src/person.c.o -c /home/ipclzj/c/test1/src/person.c",
+  "file": "/home/ipclzj/c/test1/src/person.c"
+}
+]

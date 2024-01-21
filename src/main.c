@@ -2,7 +2,7 @@
 #include "malloc.h"
 #include "assert.h"
 #include "string.h"
-//断言
+
 
 #define MAX_STRING_NUM 20
 
